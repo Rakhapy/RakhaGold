@@ -11,6 +11,10 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        
+        sfProBold: ["var(--font-sf-pro-bold)"],
+      },
     },
   },
   plugins: [],
